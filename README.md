@@ -25,7 +25,6 @@ Here is a list of working proof of concept financial reporting frameworks: ([you
 
 ***
 
-To get to the conceptual model, [see the universal repository](https://github.com/seattlemethod/universal)
+To get to the **conceptual model**, [see the universal repository](https://github.com/seattlemethod/universal)
 
 ***
-See the definition of a [Holon](https://github.com/seattlemethod/glossary/blob/main/GLOSSARY.md#holon).
