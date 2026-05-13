@@ -1,6 +1,8 @@
 # START-HERE
 **Start Here!** This connects the repositories together. Note that [here is a link to creating MD markup](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet). And [this Youtube video](https://youtu.be/o_RyOjsNDRc) provides additional information for getting started creating MD files.
 
+To understand what the Seattle Method is and what it does begin by reading [this exectutive summary](https://seattlemethod.blogspot.com/p/executive-summary.html).
+
 Here is a list of working proof of concept financial reporting frameworks: ([you can also get to the reference reporting frameworks via this link](https://seattlemethod.blogspot.com/2026/01/reference-reporting-frameworks.html))
 
 >[**Accounting Equation**](https://github.com/seattlemethod/ae): Extremely simple financial reporting framework.  Introduces core ideas.
