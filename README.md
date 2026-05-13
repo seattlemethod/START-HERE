@@ -22,4 +22,3 @@ IFRS for SMEs: Commercial financial reporting framework enhanced, enriched, and 
 See the definition of a [Holon](seattlemethod/glossary/GLOSSARY.md#holon).
 
 See the definition of a [Holon](https://github.com/seattlemethod/glossary/blob/main/GLOSSARY.md#holon).
-
