@@ -1,5 +1,5 @@
 # START-HERE
-Start Here! This connects the repositories together. Note that [here is a link to creating MD markup.](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet).
+**Start Here!** This connects the repositories together. Note that [here is a link to creating MD markup.](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet).
 
 Here is a list of working proof of concept financial reporting frameworks:
 
