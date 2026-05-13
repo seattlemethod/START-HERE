@@ -3,9 +3,9 @@ Start Here! This connects the repositories together.
 
 [Here is a link to creating MD markup.](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
 
-[Accounting Equation](https://github.com/seattlemethod/ae): Extremely simple financial reporting framework.  Introduces core ideas.
+>[Accounting Equation](https://github.com/seattlemethod/ae): Extremely simple financial reporting framework.  Introduces core ideas.
 
-[SFAC6](https://github.com/seattlemethod/sfac6): Simple financial reporting framework; introductes the idea of a structure.
+>[SFAC6](https://github.com/seattlemethod/sfac6): Simple financial reporting framework; introductes the idea of a structure.
 
 [SFAC8](https://github.com/seattlemethod/sfac8): Simple financial reporting framework; builds on SFAC6 and introduces the idea of reporting style.
 
