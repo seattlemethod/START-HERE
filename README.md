@@ -21,6 +21,9 @@ AASB1060: Working proof of concept of a real financial reporting framework.
 
 IFRS for SMEs: Commercial financial reporting framework enhanced, enriched, and otherwise augmented to make it consistent with the Seattle Method.
 
+***
+
 To get to the conceptual model, [see the universal repository](https://github.com/seattlemethod/universal)
 
+***
 See the definition of a [Holon](https://github.com/seattlemethod/glossary/blob/main/GLOSSARY.md#holon).
